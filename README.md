@@ -1,3 +1,3 @@
-# SushiSwap Icons
+# SoulSwap Icons
 
 ...
